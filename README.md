@@ -5,7 +5,7 @@
 ## Description 📝
 
 This repository marks my first attempt at web scraping using [Scrapy](https://scrapy.org/) and what better way
-to do it than doing it on GoodReads to yields the details of the books which are described in the start_urls of
+to do it than doing it on GoodReads to yield the details of the books which are described in the start_urls of
 /Learning/Spiders file.
 
 ---
