@@ -15,7 +15,7 @@ to do it than doing it on GoodReads to yields the details of the books which are
 `pip install -r requirements.txt`\
 \
 
-##### Change directory to Learning/spider\
+##### Change directory to Learning/spider
 
 \
 `scrapy crawl GoodReads -o BooksData.json`\
