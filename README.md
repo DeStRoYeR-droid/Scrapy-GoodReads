@@ -8,6 +8,8 @@ This repository marks my first attempt at web scraping using [Scrapy](https://sc
 to do it than doing it on GoodReads to yields the details of the books which are described in the start_urls of
 /Learning/Spiders file.
 
+[This program scrapes the URL of the image, the title of the book and the description](./Learning/GoodReadsWebsite.png)
+
 ---
 
 ## To run the code 👨🏽‍💻
